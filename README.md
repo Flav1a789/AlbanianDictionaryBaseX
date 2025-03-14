@@ -1,4 +1,4 @@
-# Albanian Dictionary Project / Projet de Dictionnaire Albanais / Projekti i Fjalorit Shqiptar
+# Albanian Dictionary Project / Projet de Dictionnaire Albanais / Projekti i Fjalorit Shqip
 
 ## English
 
